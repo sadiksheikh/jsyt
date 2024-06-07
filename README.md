@@ -1,2 +1,2 @@
 # jsyt
-chai aur code yt
+chai aur code YouTube
